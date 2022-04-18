@@ -1,0 +1,9 @@
+{
+    "id":2,
+    "image": "http://ipfs.io/",
+    "attributes": [
+        { "trait_type": "Background", "value": "Green" },
+        { "trait_type": "Color", "value": "Yellow" },
+        { "trait_type": "Letter", "value": "E" }
+      ]
+}
