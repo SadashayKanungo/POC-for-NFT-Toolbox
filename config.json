@@ -1,0 +1,12 @@
+{
+    "collection_name": "NFT_TOOLBOX_POC",
+    "collection_description": "These are images used in a demo project for NFT Toolbox.",
+    "external_url": "",
+    "metadata_url": "ipfs://",
+
+    "ipfs_service": "pinata",
+    "IPFS_API_KEY": "",
+    "IPFS_API_SECURITY": ""
+
+
+}

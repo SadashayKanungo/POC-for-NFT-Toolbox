@@ -1,5 +1,7 @@
 {
-    "id":1,
+    "name": "NFT_TOOLBOX_POC",
+    "description": "These are images used in a demo project for NFT Toolbox.",
+    "external_url":"",
     "image": "ipfs://",
     "attributes": [
         { "trait_type": "Background", "value": "Red" },
