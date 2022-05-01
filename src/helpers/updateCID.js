@@ -1,10 +1,10 @@
 const fs = require('fs');
 
-const updateImageCID = (CID) => {
+const updateImageCID = (cid) => {
 
 }
 
-const updateMetadataCID = (CID) => {
+const updateMetadataCID = (cid) => {
     
 }
 
